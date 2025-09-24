@@ -8,3 +8,5 @@ Is this a breaking change? **Yes/No**
 
 ## Test Plan
 state how this has been tested
+
+[How we code](https://github.com/pinecorpca/documentation/blob/master/Pine-Eng-Playbook.md)
