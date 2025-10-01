@@ -1,6 +1,6 @@
 ## Summary :notebook:
 
-[Jira ticket](https://pinecanada.atlassian.net/browse/CUS-XXX)
+[ISSUE-1](https://linear.app/pinecanada/issue/ISSUE-1)
 
 Is this a breaking change? **Yes/No**
 
